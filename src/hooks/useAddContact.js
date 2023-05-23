@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { nanoid } from 'nanoid';
-import { getContactsItems } from "redux/slice";
+import { getContactsItems } from "../redux/slice";
 import { addContact } from "../redux/operations"
 
 
