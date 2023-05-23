@@ -1,0 +1,8 @@
+.contactList {
+  margin: 20px auto 0px;
+  padding: 0;
+}
+
+.noContact {
+  list-style-type: none;
+}
